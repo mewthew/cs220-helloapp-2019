@@ -1,0 +1,8 @@
+branches:
+    only:
+    - master
+
+language: python
+
+script:
+    - pytest
